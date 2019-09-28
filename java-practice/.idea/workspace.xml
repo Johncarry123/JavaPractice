@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f35df8a6-9173-4331-9d46-d8a8e8b10cb3" name="Default Changelist" comment="" />
+    <list default="true" id="f35df8a6-9173-4331-9d46-d8a8e8b10cb3" name="Default Changelist" comment="My third commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/abstraction/AbstractCars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/abstraction/AbstractDemoBMW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/encaptulations/EncaptulationDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/encaptulations/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/exceptionhandling/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/exceptionhandling/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/exceptionhandling/ReadingProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/exceptionhandling/RunTimeExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/exceptionhandling/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/interfaces/BMWCarsInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/interfaces/CarsInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/interfaces/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java-practice/interfaces/InterfaceDemoInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/AbstractCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/AbstractDemoBMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encaptulations/EncaptulationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encaptulations/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling/ReadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling/RunTimeExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionhandling/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/BMWCarsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/CarsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/InterfaceDemoInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-practice/collection/MapsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-practice/collection/MapsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/Cars.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +47,46 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exceptionhandling/RunTimeExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exceptionhandling/ReadingProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exceptionhandling/test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,15 +109,30 @@
         <option value="$PROJECT_DIR$/src/polymorphism/methodoverriding/CarsOverridingChildBMW.java" />
         <option value="$PROJECT_DIR$/src/collection/ArrayListDemo.java" />
         <option value="$PROJECT_DIR$/src/collection/MapsDemo.java" />
+        <option value="$PROJECT_DIR$/src/abstraction/Cars.java" />
+        <option value="$PROJECT_DIR$/src/abstraction/AbstractCars.java" />
+        <option value="$PROJECT_DIR$/src/abstraction/AbstractDemoBMW.java" />
+        <option value="$PROJECT_DIR$/src/encaptulations/Test.java" />
+        <option value="$PROJECT_DIR$/src/encaptulations/EncaptulationDemo.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/CarsInterface.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/BMWCarsInterface.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/InterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/InterfaceDemoInstance.java" />
+        <option value="$PROJECT_DIR$/src/exceptionhandling/Account.java" />
+        <option value="$PROJECT_DIR$/src/exceptionhandling/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/exceptionhandling/RunTimeExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/exceptionhandling/ReadingProperties.java" />
+        <option value="$PROJECT_DIR$/src/exceptionhandling/test.properties" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1040" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -81,7 +159,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Prime Student Batch_2/Sachin/WeekSevenHomeWork" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -89,6 +168,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interfaces" />
       <recent name="polymorphism.methodoverriding" />
       <recent name="polymorphism.methodoverloading" />
       <recent name="inheritance" />
@@ -110,52 +190,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapsDemo">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ArrayListDemo" />
+  <component name="RunManager" selected="Application.ReadingProperties">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionhandling.ExceptionDemo" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarsOverloading1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.methodoverloading.CarsOverloading1" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="polymorphism.methodoverloading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarsOverloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.methodoverloading.CarsOverloading2" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="polymorphism.methodoverloading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarsOverridingChildBMW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.methodoverriding.CarsOverridingChildBMW" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="polymorphism.methodoverriding.*" />
+          <option name="PATTERN" value="exceptionhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,13 +217,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReadingProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionhandling.ReadingProperties" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTimeExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionhandling.RunTimeExceptionDemo" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encaptulations.Test" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encaptulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadingProperties" />
+        <item itemvalue="Application.RunTimeExceptionDemo" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MapsDemo" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.CarsOverridingChildBMW" />
-        <item itemvalue="Application.CarsOverloading2" />
-        <item itemvalue="Application.CarsOverloading1" />
       </list>
     </recent_temporary>
   </component>
@@ -197,12 +277,27 @@
       <option name="presentableId" value="Default" />
       <updated>1564231183361</updated>
     </task>
+    <task id="LOCAL-00001" summary="My second commit">
+      <created>1569665912312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569665912312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My third commit">
+      <created>1569667602915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569667602915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21406959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2642857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,16 +305,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45918366" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3452381" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -230,7 +325,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2887755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2642857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -238,16 +333,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31462586" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3452381" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -257,6 +352,37 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My second commit" />
+    <MESSAGE value="My third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My third commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
@@ -380,6 +506,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstraction/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstraction/AbstractCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstraction/AbstractDemoBMW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/encaptulations/EncaptulationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/encaptulations/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/CarsInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/BMWCarsInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/InterfaceDemoInstance.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.sql/java/sql/SQLException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.sql/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="701" column="14" selection-start-line="701" selection-start-column="14" selection-end-line="701" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptionhandling/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptionhandling/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptionhandling/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptionhandling/RunTimeExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptionhandling/ReadingProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
         </state>
       </provider>
     </entry>
